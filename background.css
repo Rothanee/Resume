@@ -1,0 +1,7 @@
+html {
+    background-image: url("./assets/images/cool-background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
