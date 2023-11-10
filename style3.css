@@ -44,4 +44,11 @@ img {
 .link {
     display: flex;
     justify-content: center;
+    color: black;
+}
+
+footer{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 100px;
 }
